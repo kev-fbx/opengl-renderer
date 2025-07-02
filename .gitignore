@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+.vs/
+opengl-renderer/
+x64/
